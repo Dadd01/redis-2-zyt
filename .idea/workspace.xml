@@ -4,8 +4,8 @@
     <list default="true" id="a5f3be37-d132-4b2c-9d93-5b4f276c52ab" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mingyin/BasicDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/zytong/BasicDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mingyin/RedisDemo1.java" afterPath="$PROJECT_DIR$/src/main/java/com/zytong/RedisDemo1.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mingyin/BasicDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mingyin/RedisDemo1.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RedisDemo1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RedisDemo1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zytong/RedisDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2921">
@@ -37,6 +37,30 @@
                 <element signature="e#238#239#0" expanded="true" />
                 <element signature="e#1135#1151#0" expanded="true" />
                 <element signature="e#4079#4099#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicDemo.class" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/target/classes/com/zytong/BasicDemo.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#439#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisDemo1.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/classes/com/zytong/RedisDemo1.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#3499#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,6 +157,11 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="zytong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redis-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redis-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -279,12 +308,12 @@
       <option name="presentableId" value="Default" />
       <updated>1572837003844</updated>
       <workItem from="1572837015990" duration="883000" />
-      <workItem from="1572931482667" duration="7804000" />
+      <workItem from="1572931482667" duration="8356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8687000" />
+    <option name="totallyTimeSpent" value="9239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="259" y="25" width="1487" height="954" extended-state="0" />
@@ -362,6 +391,26 @@
             <element signature="e#238#239#0" expanded="true" />
             <element signature="e#1135#1151#0" expanded="true" />
             <element signature="e#4079#4099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/zytong/RedisDemo1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#3499#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/zytong/BasicDemo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#439#0" expanded="true" />
           </folding>
         </state>
       </provider>
