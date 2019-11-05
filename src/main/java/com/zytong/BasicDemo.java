@@ -1,4 +1,4 @@
-package com.mingyin;
+package com.zytong;
 
 import redis.clients.jedis.Jedis;
 

@@ -1,7 +1,6 @@
-package com.mingyin;
+package com.zytong;
 
 import redis.clients.jedis.Jedis;
-import redis.clients.jedis.ZParams;
 
 import java.util.*;
 
